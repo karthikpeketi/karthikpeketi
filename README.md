@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hi, I'm Karthik!</h1>
 
-👦 I'm **Karthik**, a passionate **Full Stack Developer** skilled in **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **Java**, and **React.js**.  
-🌱 Currently, I'm Learning  **Spring Boot**.  
+👦 I'm **Karthik**, a passionate **Full Stack Developer** skilled in **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **Java**, **Spring Boot**and **React.js**.  
 ✨ I love creating visually appealing and user-friendly interfaces.  
 
 ## 🔗 Connect with me
@@ -22,4 +21,12 @@
   <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-E84E31?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.oracle.com/java/">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot">
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  </a>
+
+
 </p>
